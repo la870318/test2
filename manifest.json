@@ -5,7 +5,7 @@
   "background_color": "#cbef15",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "test2",
+  "start_url": "test2/",
   "icons": [
     {
       "src": "/icons/app-icon-96-96.png",

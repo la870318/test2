@@ -5,25 +5,25 @@
   "background_color": "#cbef15",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "test2/",
+  "start_url": ".",
   "icons": [
     {
-      "src": "/test2/icons/app-icon-96-96.png",
+      "src": "/icons/app-icon-96-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/test2/icons/app-icon-144-144.png",
+      "src": "/icons/app-icon-144-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/test2/icons/app-icon-256-256.png",
+      "src": "/icons/app-icon-256-256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/test2/icons/app-icon-512-512.png",
+      "src": "/icons/app-icon-512-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
